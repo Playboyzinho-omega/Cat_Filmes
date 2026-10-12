@@ -17,3 +17,8 @@ No projeto CineLista, serão utilizados:
 - Snackbar: mensagem temporária para informar o resultado de uma ação.
 3. Projeto escolhido
 O aplicativo de exemplo será o CineLista, um catálogo pessoal de filmes. O usuário poderá cadastrar filmes, visualizar os itens em uma lista e marcar quais já assistiu.
+Ultima Versão: 5.15.3
+Última publicação  https://github.com/callstack/react-native-paper
+Há 4 meses     
+!4,5 mil Estrelas.  https://github.com/callstack/react-native-paper
+469.487  https://www.npmjs.com/package/react-native-paper
